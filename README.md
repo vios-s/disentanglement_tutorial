@@ -8,6 +8,8 @@ Exemplar methods that exploit disentanglement to improve challenging tasks in co
 
 ### Computer Vision
 
+For each application we denote the type of disentanglement as either "Vector" or content-style "C-S".
+
 |     Task     | Model Abbrev. | Repository | Framework | Type | Original Implementation |
 |:------------:|:------:|:--------:|:------:|:------:|:------:|
 |I2I translation|MUNIT|[https://github.com/NVlabs/MUNIT](https://github.com/NVlabs/MUNIT) |PyTorch| C-S |<ul><li>- [x] </li>   |
@@ -17,8 +19,10 @@ Exemplar methods that exploit disentanglement to improve challenging tasks in co
 
 ### Medical Image Analysis
   
-|     Task     | Model Abbrev. | Repository | Framework | Original Implementation |
-|:------------:|:------:|:--------:|:------:|:------:|
+For each application we denote the type of disentanglement as either "Vector" or content-style "C-S".
+  
+|     Task     | Model Abbrev. | Repository | Framework | Type | Original Implementation |
+|:------------:|:------:|:--------:|:------:|:------:|:------:|
 |Single-modal Segmentation|SDNet|[https://github.com/vios-s/anatomy_modality_decomposition](https://github.com/vios-s/anatomy_modality_decomposition) |Keras|C-S |<ul><li>- [x] </li>   |
 |Brain Synthesis|n/a|[https://github.com/vios-s/pseudo-healthy-synthesis](https://github.com/vios-s/pseudo-healthy-synthesis)  |Keras| C-S |<ul><li>- [x] </li> |
 |Causal Image Synthesis| n/a |[https://github.com/biomedia-mira/deepscm](https://github.com/biomedia-mira/deepscm)  |PyTorch| C-S |<ul><li>- [x] </li> |
