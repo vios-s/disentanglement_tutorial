@@ -2,9 +2,10 @@
 
 ![applications](./assets/applications.png)
 
-## Applications of disentanglement
+## Applications of Disentanglement
+Exemplar methods that exploit disentanglement to improve challenging tasks in computer vision and medical image analysis.
 
-### Computer vision
+### Computer Vision
 
 |     Task     | Model Abbrev. | Repository | Framework | Original Implementation |
 |:------------:|:------:|:--------:|:------:|:------:|
@@ -13,7 +14,7 @@
 |Pose Estimation| n/a |[https://github.com/CompVis/unsupervised-disentangling](https://github.com/CompVis/unsupervised-disentangling)  |TensorFlow| <ul><li>- [x] </li> |
 |Point cloud Generation|SetVAE|[https://github.com/jw9730/setvae](https://github.com/jw9730/setvae)  |PyTorch| <ul><li>- [x] </li> |
 
-### Medical image analysis
+### Medical Image Analysis
   
 |     Task     | Model Abbrev. | Repository | Framework | Original Implementation |
 |:------------:|:------:|:--------:|:------:|:------:|
@@ -22,4 +23,15 @@
 |Causal Image Synthesis| n/a |[https://github.com/biomedia-mira/deepscm](https://github.com/biomedia-mira/deepscm)  |PyTorch| <ul><li>- [x] </li> |
 |Classification|MIDNET|[https://github.com/qmeng99/mutual-information-based-disentangled-neural-networks](https://github.com/qmeng99/mutual-information-based-disentangled-neural-networks)  |Tensorflow| <ul><li>- [x] </li> |
 
-Note that the *SDNet* model has also been implemented in PyTorch and is integrated to the [GaNDLF](https://github.com/CBICA/GaNDLF) framework.
+Note that the *SDNet* model has also been implemented in PyTorch and has been integrated into the [GaNDLF](https://github.com/CBICA/GaNDLF) framework.
+
+### Citation
+  
+ ```
+@misc{liu2021tutorial,
+  author       = "Xiao Liu and Pedro Sanchez and Spyridon Thermos and Alison O'Neil and Sotirios A. Tsaftaris",
+  title        = "A tutorial on learning disentangled representations in the imaging domain",
+  year         = "2021"
+}
+```
+  
