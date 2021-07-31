@@ -1,7 +1,7 @@
 # A tutorial on learning disentangled representations in the imaging domain
 
 ![applications](./assets/applications.png)
-Visual summary of disentangled representation learning applications in the computer vision (left) and medical imaging (right) domains. Red connections indicate vector-based disentanglement, while blue connections indicate tensor/vector-based one (CSD). The visual examples aretaken from the
+Visual summary of disentangled representation learning applications in the computer vision (left) and medical imaging (right) domains. Red connections indicate vector-based disentanglement, while blue connections indicate tensor/vector-based one (CSD). The visual examples are taken from the papers and repositories of the applications that are reported in the Tables below.
 
 ## Applications of Disentanglement
 Exemplar methods that exploit disentanglement to improve challenging tasks in computer vision and medical image analysis.
