@@ -1,7 +1,7 @@
 # A tutorial on learning disentangled representations in the imaging domain
 
 ![applications](./assets/applications.png)
-Visual summary of disentangled representation learning applications in the computer vision (left) and medical imaging (right) domains. Red connections indicate vector-based disentanglement, while blue connections indicate tensor/vector-based one (CSD). The visual examples are taken from the papers and repositories of the applications that are reported in the Tables below.
+Visual summary of disentangled representation learning applications in the computer vision (left) and medical imaging (right) domains. Red connections indicate vector-based disentanglement, while blue connections indicate tensor/vector-based one (CSD). **The visual examples are taken from the papers and repositories of the applications that are reported in the Tables below.**
 
 ## Applications of Disentanglement
 Exemplar methods that exploit disentanglement to improve challenging tasks in computer vision and medical image analysis.
@@ -28,7 +28,7 @@ For each application we denote the type of disentanglement as either "Vector" or
 |Causal Image Synthesis| n/a |[https://github.com/biomedia-mira/deepscm](https://github.com/biomedia-mira/deepscm)  |PyTorch| C-S |<ul><li>- [x] </li> |
 |Classification|MIDNET|[https://github.com/qmeng99/mutual-information-based-disentangled-neural-networks](https://github.com/qmeng99/mutual-information-based-disentangled-neural-networks)  |Tensorflow| Vector |<ul><li>- [x] </li> |
 
-Note that the *SDNet* model has also been implemented in PyTorch and has been integrated into the [GaNDLF](https://github.com/CBICA/GaNDLF) framework.
+Note that the *)SDNet** model has also been implemented in PyTorch and has been integrated into the [GaNDLF](https://github.com/CBICA/GaNDLF) framework.
 
 ## Building Blocks
 TBA
