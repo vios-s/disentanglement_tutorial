@@ -30,7 +30,13 @@ For each application we denote the type of disentanglement as either "Vector" or
 
 Note that the *SDNet* model has also been implemented in PyTorch and has been integrated into the [GaNDLF](https://github.com/CBICA/GaNDLF) framework.
 
-### Citation
+## Building Blocks
+TBA
+  
+## Metrics
+TBA
+ 
+## Citation
   
  ```
 @misc{liu2021tutorial,
