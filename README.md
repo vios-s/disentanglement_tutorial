@@ -43,10 +43,10 @@ Measuring disentanglement in single vector latent variables:
   
 |     Property     | Paper (link to PDF) | Repository |
 |:------------:|:------:|:--------:|
-|     Modularity     | [pdf1](https://papers.nips.cc/paper/2018/file/1ee3dfcd8a0645a25a35977997223d22-Paper.pdf) , [pdf2](https://openreview.net/pdf?id=By-7dz-AZ) , [pdf3](https://arxiv.org/pdf/1812.02230.pdf) | [repo1](https://github.com/rtqichen/beta-tcvae) , [repo2](https://github.com/cianeastwood/qedr) , [repo3](https://github.com/google-research/disentanglement_lib) |
-|     Compactness     | [pdf1](https://papers.nips.cc/paper/2018/file/1ee3dfcd8a0645a25a35977997223d22-Paper.pdf) , [pdf2](https://openreview.net/pdf?id=By-7dz-AZ) , [pdf3](https://arxiv.org/pdf/1812.02230.pdf) | [repo1](https://github.com/rtqichen/beta-tcvae) , [repo2](https://github.com/cianeastwood/qedr) , [repo3](https://github.com/google-research/disentanglement_lib) |
+|     Modularity     | [pdf](https://papers.nips.cc/paper/2018/file/1ee3dfcd8a0645a25a35977997223d22-Paper.pdf) <br> [pdf](https://openreview.net/pdf?id=By-7dz-AZ) <br> [pdf](https://arxiv.org/pdf/1812.02230.pdf) | [repo](https://github.com/rtqichen/beta-tcvae) <br> [repo](https://github.com/cianeastwood/qedr) <br> [repo](https://github.com/google-research/disentanglement_lib) |
+|     Compactness     | [pdf](https://papers.nips.cc/paper/2018/file/1ee3dfcd8a0645a25a35977997223d22-Paper.pdf) <br> [pdf](https://openreview.net/pdf?id=By-7dz-AZ) <br> [pdf](https://arxiv.org/pdf/1812.02230.pdf) | [repo](https://github.com/rtqichen/beta-tcvae) <br> [repo](https://github.com/cianeastwood/qedr) <br> [repo](https://github.com/google-research/disentanglement_lib) |
 |     Linear separability     | [pdf](https://openaccess.thecvf.com/content_CVPR_2019/papers/Karras_A_Style-Based_Generator_Architecture_for_Generative_Adversarial_Networks_CVPR_2019_paper.pdf) | [repo](https://github.com/NVlabs/stylegan) |
-|     Explicitness     | [pdf1](https://openreview.net/pdf?id=By-7dz-AZ) , [pdf2](https://arxiv.org/pdf/1812.02230.pdf) | [repo1](https://github.com/cianeastwood/qedr) , [repo2](https://github.com/google-research/disentanglement_lib) |
+|     Explicitness     | [pdf](https://openreview.net/pdf?id=By-7dz-AZ) <br> [pdf](https://arxiv.org/pdf/1812.02230.pdf) | [repo](https://github.com/cianeastwood/qedr) <br> [repo](https://github.com/google-research/disentanglement_lib) |
 |     Consistency & Restrictiveness      | [pdf](https://openreview.net/pdf?id=HJgSwyBKvr) | [repo](https://github.com/google-research/google-research/tree/master/weak_disentangle) |
 
 
@@ -55,9 +55,11 @@ Measuring disentanglement in single vector latent variables:
   
 Measuring disentanglement between two latent variables of the same or different dimensionality:
   
-|     Property     | Paper | Repository |
+|     Metric   | Paper (link to PDF | Repository |
 |:------------:|:------:|:--------:|
 |     Distance Correlation & Information over Bias  | [pdf](https://arxiv.org/pdf/2008.12378.pdf) | [repo](https://github.com/vios-s/CSDisentanglement_Metrics_Library) |
+| Kernel-target alignment | [pdf](https://proceedings.neurips.cc/paper/2001/file/1f71e393b3809197ed66df836fe833e5-Paper.pdf) | [repo](https://github.com/djsutherland/hsfuap/blob/master/hsfuap/kernels/alignment.py) |
+| Hilbert-Schmidt independence criterion | [pdf](http://www.gatsby.ucl.ac.uk/~gretton/papers/GreBouSmoSch05.pdf) | [repo](https://github.com/amber0309/HSIC) |
 
 ## Citation
   
