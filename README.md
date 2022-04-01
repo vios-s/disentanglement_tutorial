@@ -8,6 +8,8 @@ Exemplar methods that exploit disentanglement to improve challenging tasks in co
 
 **NOTE:** The scope of this tutorial is not to survey every existing application for the to domains. If you feel that we should include your research as part of this tutorial we would be happy to do so. Please send an email to any of the contributor and help us create a place where everyone can understand and leverage disentanglement!
 
+### Test
+
 ### Computer Vision
 
 For each application we denote the type of disentanglement as either "Vector" or content-style "C-S".
