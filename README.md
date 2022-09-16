@@ -68,10 +68,13 @@ Measuring disentanglement between two latent variables of the same or different 
 ## Citation
   
  ```
-@misc{liu2021tutorial,
-  author       = "Xiao Liu and Pedro Sanchez and Spyridon Thermos and Alison O'Neil and Sotirios A. Tsaftaris",
-  title        = "A tutorial on learning disentangled representations in the imaging domain",
-  year         = "2021"
+@article{liu2022learning,
+  title={Learning disentangled representations in the imaging domain},
+  author={Liu, Xiao and Sanchez, Pedro and Thermos, Spyridon and O’Neil, Alison Q and Tsaftaris, Sotirios A},
+  journal={Medical Image Analysis},
+  pages={102516},
+  year={2022},
+  publisher={Elsevier}
 }
 ```
   
